@@ -113,6 +113,9 @@
   .dark-1{
     color: #0E0E0E;
   }
+  .dark-2{
+    color: rgba(14, 14, 14, 0.61);
+  }
 .btn-primary{
     background-color: white;
     font-weight: 600;
@@ -149,4 +152,26 @@ nav ul li{
 }
 nav li a {
     text-decoration: none;
+}
+
+/* banner styles */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 160px 120px;
+    background-color: #C6E4D6;
+    padding: 80px;
+    border-radius: 10px;
+}
+.banner-greetings{
+    font-weight: 500;
+    font-size: 24px;
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 56px;
+}
+.banner-profile-pic{
+    width: 475px;
+    height: 400px;
 }
