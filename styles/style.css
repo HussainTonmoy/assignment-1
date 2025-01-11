@@ -216,3 +216,26 @@ nav li a {
 .card-icon{
     padding: 30px;
 }
+.vision-container{
+    display: flex;
+    padding: 0 150px;
+    gap: 24px;
+}
+.btn-l-m{
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+    padding: 17px 34px;
+    border-radius: 10px;
+    border: none;
+}
+.btn1{
+    background-color: #5490F5;
+    
+}
+.btn2{
+    background-color: #09A15C;
+}
+.btn3{
+    background-color: #FFC239;
+}
