@@ -108,6 +108,15 @@
     font-style: italic;
   }
   
+  /* mainstyle */
+  main{
+    max-width: 1140px;
+    margin: 0;
+  }
+  main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+  }
 
   /* shared style */
   .dark-1{
@@ -157,6 +166,7 @@ nav li a {
 /* banner styles */
 .banner{
     display: flex;
+    width: ;
     justify-content: space-between;
     margin: 160px 120px;
     background-color: #C6E4D6;
@@ -174,4 +184,35 @@ nav li a {
 .banner-profile-pic{
     width: 475px;
     height: 400px;
+}
+
+/* pillars section styles */
+.section-title{
+    text-align: center;
+}
+.pillars{
+    padding: 0px 150px;
+    display: flex;
+    gap: 24px;
+}
+.pillar{
+    padding: 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.308);
+    border-radius: 10px;
+}
+.pillar-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    padding: 30px;
+}
+.pillar-description{
+    padding: 30px;
+    font-weight: normal;
+    font-size: 16px;
+    color: #0E0E0E;
+}
+.card-icon{
+    padding: 30px;
 }
