@@ -148,6 +148,7 @@ main section {
   border: none;
   cursor: pointer;
 }
+
 .btn-secondary:hover {
   background-color: #005a43;
 }
@@ -223,6 +224,7 @@ h1 {
   max-width: 100%;
   height: auto;
 }
+
 /* pillars section styles */
 .pillars-container {
   text-align: center;
@@ -277,6 +279,7 @@ h1 {
   margin: 0;
   line-height: 1.5;
 }
+
 /* Vision Section */
 .vision-section {
   text-align: center;
@@ -393,6 +396,7 @@ h1 {
   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.308);
   border-radius: 10px;
 }
+
 .author-name {
   font-size: 1.1rem;
   font-weight: bold;
@@ -497,6 +501,7 @@ h1 {
   max-width: 600px;
   width: 100%;
 }
+
 .donation-title {
   font-size: 2rem;
   font-weight: bold;
@@ -565,6 +570,7 @@ h1 {
 .donate-button:hover {
   background-color: #005a43;
 }
+
 /* Subscribe Section */
 .subscribe-section {
   text-align: center;
@@ -631,6 +637,7 @@ h1 {
   font-size: 0.85rem;
   color: #666;
 }
+
 /* Footer Styles */
 .footer {
   text-align: center;
